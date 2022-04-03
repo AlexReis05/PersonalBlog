@@ -1,4 +1,4 @@
-﻿using PersonalBlog.Extesions;
+﻿using PersonalBlog.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
